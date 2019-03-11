@@ -1,0 +1,67 @@
+  body {
+  background-color: #fcdee0;
+  margin: 0px;
+  color: #950e17;
+}
+
+  th {
+  background-color: #999999;
+  padding: 5px;
+}
+
+  td {
+  background-color: #cccccc;
+  padding: 5px;
+}
+
+  table {
+  background-color: #808080;
+  margin: 4px;
+}
+
+  nav {
+}
+
+  h1 {
+  font-size: 30px;
+  padding: 0px;
+  color: #34090c;
+  margin: 5px;
+  font-weight: 4px;
+}
+
+  ul {
+  list-style: none;
+}
+
+li {
+  font-weight: 2px;
+}
+
+  #dir {
+  text-align: center;
+  background-color: #f37c84;
+  padding: 5px;
+  margin: 0px;
+}
+
+#dir p {
+  padding: 2px;
+}
+
+  article p {
+  margin: 20px;
+  font-weight: 2px;
+  background-color: #cfb0b1;
+  padding: 20px 48px;
+}
+
+  img {
+  margin: 10px;
+}
+
+form{
+ margin: 3px;
+}
+
+
